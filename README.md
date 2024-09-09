@@ -1,35 +1,57 @@
-<div style="theme▪️">
+<div align="center">
 
 
-<div style="width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&fontAlign=70" style="width: 100%;">
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyunjin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+ -->
+![header](https://capsule-render.vercel.app/api?text=Hyunjin's%20Github&color=gradient&animation=fadeIn&fontColor=000000)
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+<h3 align="center">👋 It's me! 👋</h3>
+<p align="center">
+  <b>Frontend Developer</b> 👩‍💻 <br>
+</p>
 
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+<div align="center">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23F1E05A?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/python-%233681BA?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23B07219.svg?style=for-the-badge&logo=java&logoColor=white">
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=9JIIIIIN9&theme=tokyonight&show_icons=true" width="100%">
-    </td>
-    <td style="border: none;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=9JIIIIIN9&theme=tokyonight" width="100%">
-      </a>
-    </td>
-    
-  </tr>
-</table>
-
-[![Graph](https://activity-graph.herokuapp.com/graph?username=9JIIIIIN9&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Zustand-%234BCF7D?style=for-the-badge&logo=zustand&logoColor=white">
+<img src="https://img.shields.io/badge/recoil-61DAFB?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black"> 
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/> 
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  </div>
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label="/> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label="/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+</p>
 
-
-
-
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin1109&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
