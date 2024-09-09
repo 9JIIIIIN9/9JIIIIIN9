@@ -3,7 +3,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyunjin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
  -->
-![header](https://capsule-render.vercel.app/api?text=Hyunjin's%20Github&color=gradient&animation=fadeIn&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyunjin's%20Github&fontSize=90)
 </div>
 
 <h3 align="center">👋 It's me! 👋</h3>
